@@ -5,17 +5,17 @@
 <link>https://github.com/soh335/ScreenCaptureBox</link>
 
 <item>
-<title>ScreenCaptureBox Version 1.2.2</title>
+<title>ScreenCaptureBox Version 1.2.3</title>
 <description>
 <![CDATA[
 <ul>
-<li>fix bug</li>
+<li>support 10.9</li>
 </ul>
 ]]>
 </description>
-<pubDate>Sun, 9 Nov 2014 15:51:02 +0900</pubDate>
-<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2" length="1411911" type="application/octet-stream" sparkle:dsaSignature="MCwCFGUxVnyUN1iWa9j9h/jeVih1ETL3AhRvWZPY9PdtuMeWpx/oCnB5YghUhQ==" />
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<pubDate>Sun, 9 Nov 2014 16:04:12 +0900</pubDate>
+<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.2.3" sparkle:shortVersionString="1.2.3" length="1389955" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCKjK9ztyrSDsEmvtbPoYtiifCcjwIVAKCg9pM+Teb9v3aNQrLIMUx1ayPI" />
+<sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
 </item>
 </channel>
 </rss>
