@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>ScreenCaptureBox Changelog</title>
-    <link>https://soh335.github.io/ScreenCaptureBox/appcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-  </channel>
-</rss>
+<channel>
+<title>ScreenCaptureBox ChangeLog</title>
+<link>https://github.com/soh335/ScreenCaptureBox</link>
 
+<item>
+<title>ScreenCaptureBox Version 1.2.2</title>
+<description>
+<![CDATA[
+<ul>
+<li>fix bug</li>
+</ul>
+]]>
+</description>
+<pubDate>Sun, 9 Nov 2014 15:51:02 +0900</pubDate>
+<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2" length="1411911" type="application/octet-stream" sparkle:dsaSignature="MCwCFGUxVnyUN1iWa9j9h/jeVih1ETL3AhRvWZPY9PdtuMeWpx/oCnB5YghUhQ==" />
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+</item>
+</channel>
+</rss>
