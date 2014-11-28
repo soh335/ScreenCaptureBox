@@ -5,14 +5,14 @@
 <link>https://github.com/soh335/ScreenCaptureBox</link>
 
 <item>
-<title>ScreenCaptureBox Version 1.2.4</title>
+<title>ScreenCaptureBox Version 1.2.5</title>
 <description>
 <![CDATA[
-* short interval for finding screencapture file.
+* swift
 ]]>
 </description>
-<pubDate>Fri, 14 Nov 2014 17:20:39 +0900</pubDate>
-<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.2.4" sparkle:shortVersionString="1.2.4" length="1389155" type="application/octet-stream" sparkle:dsaSignature="MCwCFADjq2Myvb75Qusp6DVmWboK0iu+AhR1isqFABuj7ZpGME6WqZoUsHgPBQ==" />
+<pubDate>Fri, 28 Nov 2014 18:01:32 +0900</pubDate>
+<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.2.5" sparkle:shortVersionString="1.2.5" length="2690422" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC6vcuKJO5Hc36naDlmFNQn3N0BVAIUAs6Gp3Ni0/MBFu4pt3A4mHSC318=" />
 <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
 </item>
 </channel>
