@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>ScreenCaptureBox ChangeLog</title>
+<link>https://github.com/soh335/ScreenCaptureBox</link>
+
+<item>
+<title>ScreenCaptureBox Version 1.3.3</title>
+<description>
+<![CDATA[
+* change bundle identifier
+* update internal framework
+]]>
+</description>
+<pubDate>Tue, 13 Sep 2016 12:34:56 +0900</pubDate>
+<enclosure url="https://github.com/soh335/ScreenCaptureBox/releases/download/1.3.3/ScreenCaptureBox.dmg" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3" length="3419515" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCAFevpofHHC5V1qClLVdKbl9v3QQIUaH3XrAY+U2yTlYz0oNQABVbXgw4=" />
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+</item>
+</channel>
+</rss>
