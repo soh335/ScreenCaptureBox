@@ -5,15 +5,15 @@
 <link>https://github.com/soh335/ScreenCaptureBox</link>
 
 <item>
-<title>ScreenCaptureBox Version 1.3.2</title>
+<title>ScreenCaptureBox Version 1.3.3</title>
 <description>
 <![CDATA[
-* update crashlytics
-* invert menu bar icon when bar is black
+* change bundle identifier
+* update internal framework
 ]]>
 </description>
-<pubDate>Tue, 15 Dec 2015 11:54:03 +0900</pubDate>
-<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.3.2" sparkle:shortVersionString="1.3.2" length="3272696" type="application/octet-stream" sparkle:dsaSignature="MCwCFG4TENkeGmXaYVkK6EazS3Mak+UiAhQE4qHfmwOLzsmJC+Q8yEWnwyHxWg==" />
+<pubDate>Tue, 13 Sep 2016 12:30:56 +0900</pubDate>
+<enclosure url="https://soh335.github.io/ScreenCaptureBox/latest.zip" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3" length="3275450" type="application/octet-stream" sparkle:dsaSignature="MCwCFHFB0Z7a91JvsocyHmxTpJjkDyvsAhQ73P8zO4rSfIr5SEk+craV1e7ZbA==" />
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 </item>
 </channel>
